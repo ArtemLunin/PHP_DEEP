@@ -1,0 +1,17 @@
+[2022-03-13T08:51:17.945619+02:00] name.WARNING: Foo [] []
+[2022-03-13T08:51:17.965447+02:00] name.ERROR: Bar [] []
+[2022-03-13T09:03:03.806260+02:00] name.WARNING: Foo [] []
+[2022-03-13T09:03:03.847502+02:00] name.ERROR: Bar [] []
+[2022-03-13T09:03:03.849881+02:00] my_logger.INFO: My logger is now ready [] []
+[2022-03-13T09:15:18.865293+02:00] name.WARNING: Foo [] []
+[2022-03-13T09:15:18.906358+02:00] name.ERROR: Bar [] []
+[2022-03-13T09:15:18.908983+02:00] my_logger.INFO: My logger is now ready [] []
+[2022-03-13T09:15:18.909920+02:00] my_logger.INFO: Adding a new user {"username":"Seldaek"} []
+[2022-03-13T09:16:32.868334+02:00] name.WARNING: Foo [] []
+[2022-03-13T09:16:32.869156+02:00] name.ERROR: Bar [] []
+[2022-03-13T09:16:32.869534+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-13T09:16:32.869823+02:00] my_logger.INFO: Adding a new user {"username":"Seldaek"} {"dummy":"Hello world!"}
+[2022-03-13T09:22:24.531409+02:00] name.WARNING: Foo [] []
+[2022-03-13T09:22:24.534218+02:00] name.ERROR: Bar [] []
+[2022-03-13T09:22:24.535080+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-13T09:22:24.535629+02:00] my_logger.INFO: Adding a new user {"username":"Seldaek","password":"hidden"} {"dummy":"Hello world!"}
