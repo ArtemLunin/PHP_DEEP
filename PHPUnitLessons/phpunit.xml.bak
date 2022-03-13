@@ -1,0 +1,8 @@
+<phpunit bootstrap="vendor/autoload.php">
+	<testsuite name="User">
+		<directory suffix="Test.php">tests/User</directory>
+	</testsuite>
+	<logging>
+		<log type="coverage-text" target="php://stdout"></log>
+	</logging>
+</phpunit>
