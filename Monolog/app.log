@@ -15,3 +15,87 @@
 [2022-03-13T09:22:24.534218+02:00] name.ERROR: Bar [] []
 [2022-03-13T09:22:24.535080+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
 [2022-03-13T09:22:24.535629+02:00] my_logger.INFO: Adding a new user {"username":"Seldaek","password":"hidden"} {"dummy":"Hello world!"}
+[2022-03-14T08:27:00.478847+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:27:00.479915+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:27:00.480325+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:27:00.480611+02:00] my_logger.INFO: Adding a new user {"username":"Seldaek","password":"hidden"} {"dummy":"Hello world!"}
+[2022-03-14T08:34:13.908915+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:34:13.930579+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:34:13.932031+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:34:13.932925+02:00] my_logger.INFO: Adding a new user {"username":"Seldaek","password":"hidden"} {"dummy":"Hello world!"}
+[2022-03-14T08:34:58.204839+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:34:58.207315+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:34:58.207909+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:34:58]  security.INFO: Adding a new user {"username":"Seldaek","password":"hidden"} []
+[2022-03-14T08:35:41.034080+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:35:41.034926+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:35:41.035307+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:36:27.313395+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:36:27.315548+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:36:27.316619+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:36:27]  security.WARNING: Adding a new user {"username":"Seldaek","password":"hidden"} []
+[2022-03-14T08:36:46.095385+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:36:46.099301+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:36:46.100972+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:36:46]  security.ERROR: Adding a new user {"username":"Seldaek","password":"hidden"} []
+[2022-03-14T08:37:06.393775+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:37:06.394583+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:37:06.395563+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:55:20.405388+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:55:20.438085+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:55:20.439525+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:55:20.440793+02:00] my_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T08:55:20.440946+02:00] my_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:55:20.440946+02:00] my_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:56:37.840817+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:56:37.841631+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:56:37.842014+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:56:37.842411+02:00] my_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T08:56:37.842474+02:00] my_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:56:37.842474+02:00] my_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:57:25.731945+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:57:25.733630+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:57:25.734519+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:57:25.735491+02:00] mult_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T08:57:25.735571+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:57:25.735571+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:58:27.828639+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:58:27.829459+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:58:27.829820+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:58:27.830316+02:00] mult_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T08:58:27.830431+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:58:27.830431+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:59:01.592798+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:59:01.593601+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:59:01.593963+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:59:01.594344+02:00] mult_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T08:59:01.594405+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:59:59.542955+02:00] name.WARNING: Foo [] []
+[2022-03-14T08:59:59.544214+02:00] name.ERROR: Bar [] []
+[2022-03-14T08:59:59.544735+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T08:59:59.545277+02:00] mult_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T08:59:59.545363+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T08:59:59.545363+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T09:11:43.469214+02:00] name.WARNING: Foo [] []
+[2022-03-14T09:11:43.504511+02:00] name.ERROR: Bar [] []
+[2022-03-14T09:11:43.506003+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T09:11:43.507197+02:00] mult_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T09:11:43.507349+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T09:11:43.507349+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+{"message":"Information message","context":{"data":"value"},"level":200,"level_name":"INFO","channel":"mult_logger","datetime":"2022-03-14T09:11:43.508633+02:00","extra":{}}
+[2022-03-14T09:11:43.508633+02:00] mult_logger.INFO: Information message {"data":"value"} []
+[2022-03-14T09:13:25.810695+02:00] name.WARNING: Foo [] []
+[2022-03-14T09:13:25.811695+02:00] name.ERROR: Bar [] []
+[2022-03-14T09:13:25.812075+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T09:13:25.812466+02:00] mult_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T09:13:25.812529+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T09:13:25.812529+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+{"message":"Information message","context":{"data":"value"},"level":200,"level_name":"INFO","channel":"mult_logger","datetime":"2022-03-14T09:13:25.812878+02:00","extra":{}}
+[2022-03-14T09:13:25.812878+02:00] mult_logger.INFO: Information message {"data":"value"} []
+[2022-03-14T09:14:18.703451+02:00] name.WARNING: Foo [] []
+[2022-03-14T09:14:18.704312+02:00] name.ERROR: Bar [] []
+[2022-03-14T09:14:18.704714+02:00] my_logger.INFO: My logger is now ready [] {"dummy":"Hello world!"}
+[2022-03-14T09:14:18.705110+02:00] mult_logger.INFO: This is DEBUG severity message [] []
+[2022-03-14T09:14:18.705173+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+[2022-03-14T09:14:18.705173+02:00] mult_logger.WARNING: This is WARNING severity message [] []
+{"message":"Information message","context":{"data":"value"},"level":200,"level_name":"INFO","channel":"my_logger","datetime":"2022-03-14T09:14:18.705596+02:00","extra":{}}

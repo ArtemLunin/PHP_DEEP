@@ -2,3 +2,4 @@
 PHPUnitLessons/.phpunit.cache/
 PHPUnitLessons/vendor/
 Monolog/vendor/
+Monolog/app*.log
